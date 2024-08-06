@@ -26,17 +26,9 @@ Faça um ***Fork*** deste repositório e abra um ***Pull Request***, **com seu n
 
 -----
 
-### Diferenciais
+### Propósito
 
-- Criar um frontend para realizar a busca com uma UX elaborada.
-   - Não elaborei um frontend, mas possuo experiẽncia em html5, css3 e javascript, bem como de frameworks relacionados.
-   - Trabalho há pelo menos 10 anos com Java Server Faces (JSF) Facelets e PrimeFaces.
-
-- Criar uma solução de autenticação entre o frontend e o backend.
-   - Devido a não criar o frontend também deixei sem autenticação, mas aqui seria o caso de criar os usuários que poderiam buscar na plataforma, guardar a informação cifrada na sessão da aplicação cliente e passá-la nas requisições para verificação da API
-
-- Ter um desempenho elevado num conjunto de dados muito grande - ok (na primeira execução ele estará abrindo pela 1ª vez a conexão e efetuando alguns caches, sendo um pouco demorado, mas depois será notado uma resposta bem rápida)
-- Utilizar o Docker - ok
+Manter o fork com a implementação da customização da imagem do wildfly (com admin definido) com datasource configurado para o postgresql.
 
 ### Como efetuar o teste
 
